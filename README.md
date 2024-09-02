@@ -7,7 +7,7 @@ My name is Fareez, and I'm currently a student at Toronto Metropolitan Universit
 - 🤝 **I’m looking to collaborate on** AI-driven projects, game development, and innovative software solutions. Shoot me an email at [fareezelahi@gmail.com](mailto:fareezelahi@gmail.com)!
 
 ### Check out some of my key projects:
-- 🎮 [**Flappy Bird AI**](https://github.com/yourusername/flappy-bird-ai): AI that learns to play Flappy Bird using NEAT.
+- 🎮 [**Flappy Bird AI**](https://github.com/fareezmir/flappyAI): AI that learns to play Flappy Bird using NEAT.
 - 💻 [**ESP32 Game Development**](https://github.com/yourusername/esp32-game): Multiplayer game development on the ESP32 platform.
 - 🏦 [**Bank Application**](https://github.com/yourusername/bank-application): JavaFX-based banking system simulation.
 
