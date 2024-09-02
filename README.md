@@ -2,7 +2,7 @@
 
 My name is Fareez, and I'm currently a student at Toronto Metropolitan University (TMU) pursuing a degree in Computer Engineering. I'm passionate about AI, game development, and building robust software systems.
 
-- 🚀 **I’m currently working on** a project to help MUTE individuals using gestures to speak in languages utilizing Google API.
+- 🚀 **I’m currently working on** a project to help MUTE individuals using gestures to speak in languages utilizing Google API & a Memory game using ESP 32 for Mild Cognitive Impairment (MCI) individuals.
 - 📚 **I’m currently learning** advanced AI algorithms, microcontroller programming, and software architecture.
 - 🤝 **I’m looking to collaborate on** AI-driven projects, game development, and innovative software solutions. Shoot me an email at [fareezelahi@gmail.com](mailto:fareezelahi@gmail.com)!
 
