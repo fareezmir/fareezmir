@@ -11,4 +11,4 @@ My name is Fareez, and I'm currently a student at Toronto Metropolitan Universit
 - 💻 [**ESP32 Game Development**](https://github.com/yourusername/esp32-game): Multiplayer game development on the ESP32 platform.
 - 🏦 [**Bank Application**](https://github.com/fareezmir/BankingApp): JavaFX-based banking system simulation.
 
-Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/fareezmir) or explore my [GitHub repositories](https://github.com/fareezmir) for more projects!
+Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/fareezmir) or explore my [GitHub repositories](https://github.com/fareezmir?tab=repositories) for more projects!
