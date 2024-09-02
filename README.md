@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hey! 👋
 
 My name is Fareez, and I'm currently a student at Toronto Metropolitan University (TMU) pursuing a degree in Computer Engineering. I'm passionate about AI, game development, and building robust software systems.
 
