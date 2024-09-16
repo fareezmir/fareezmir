@@ -1,6 +1,6 @@
 ## Hey! 👋
 
-My name is Fareez, and I'm currently a student at Toronto Metropolitan University (TMU) pursuing a degree in Computer Engineering. I'm passionate about AI, game development, and building hardware systems.
+My name is Fareez, and I'm currently a student at Toronto Metropolitan University (TMU) pursuing a degree in Computer Engineering. I'm passionate about AI, game development, and building software systems. Currently, I am learning basic front-end developer skills to create fullstack projects. I am currently learning HTML & CSS fundamentals.
 
 ### Check out some of my key projects:
 - 🎮 [**Flappy Bird AI**](https://github.com/fareezmir/flappyAI): AI that learns to play Flappy Bird using NEAT in Python.
