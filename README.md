@@ -8,3 +8,5 @@ My name is Fareez, and I'm currently a student at Toronto Metropolitan Universit
 - 🏦 [**Bank Application**](https://github.com/fareezmir/BankingApp): GUI based banking system simulation in Java (Java FX).
 
 Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/fareezmir) or explore my [GitHub repositories](https://github.com/fareezmir?tab=repositories) for more projects!
+
+![LeetCode Stats](https://leetcard.jacoblin.cool/spyderCells?theme=dark&font=Slabo%2027px)
