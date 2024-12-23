@@ -27,4 +27,3 @@ Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/fareezmir
 
 ![LeetCode Stats](https://leetcard.jacoblin.cool/spyderCells?theme=dark&font=Slabo%2027px)
 
-![Snake animation](https://github.com/fareezmir/fareezmir/blob/output/github-contribution-grid-snake.svg)
