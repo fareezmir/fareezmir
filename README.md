@@ -9,4 +9,11 @@ My name is Fareez, and I'm currently a student at Toronto Metropolitan Universit
 
 Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/fareezmir) or explore my [GitHub repositories](https://github.com/fareezmir?tab=repositories) for more projects!
 
+<h2> 🚀 &nbsp;Some Tools I Have Used and Learned</h2>
+<p align="left">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="vscode" width="45" height="45"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" alt="bash" width="45" height="45"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" alt="php" width="45" height="45"/>
+</p>
+
 ![LeetCode Stats](https://leetcard.jacoblin.cool/spyderCells?theme=dark&font=Slabo%2027px)
