@@ -18,14 +18,8 @@ Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/fareezmir
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" alt="javascript" width="45" height="45"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" alt="python" width="45" height="45"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" alt="C" width="45" height="45"/>
-
-
-
-
-
-
-
-  
 </p>
+
+<h2> 🚀 &nbsp; My Leetcode Progress: </h2>
 
 ![LeetCode Stats](https://leetcard.jacoblin.cool/spyderCells?theme=dark&font=Slabo%2027px)
