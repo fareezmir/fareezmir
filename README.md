@@ -9,4 +9,6 @@ My name is Fareez, and I'm currently a student at Toronto Metropolitan Universit
 
 Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/fareezmir) or explore my [GitHub repositories](https://github.com/fareezmir?tab=repositories) for more projects!
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fareezmir)](https://github.com/anuraghazra/github-readme-stats)
+
 ![LeetCode Stats](https://leetcard.jacoblin.cool/spyderCells?theme=dark&font=Slabo%2027px)
