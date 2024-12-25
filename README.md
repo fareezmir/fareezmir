@@ -9,7 +9,7 @@ My name is Fareez, and I'm currently a student at Toronto Metropolitan Universit
 
 Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/fareezmir) or explore my [GitHub repositories](https://github.com/fareezmir?tab=repositories) for more projects!
 
-<h2> 🚀 &nbsp; Tool's I've Learned</h2>
+<h2> 🚀 &nbsp; Languages/Techologies I've Learned</h2>
 <p align="left">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg"  alt="github" width="45" height="45"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="vscode" width="45" height="45"/>
