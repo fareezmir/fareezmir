@@ -25,5 +25,5 @@ Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/fareezmir
 
 <h2> 💻 &nbsp; My Leetcode Progress: </h2>
 
-![LeetCode Stats](https://leetcard.jacoblin.cool/spyderCells?theme=dark&font=Slabo%2027px)
+![LeetCode Stats](https://leetcard.jacoblin.cool/spyderCells0?theme=dark&font=Slabo%2027px)
 
